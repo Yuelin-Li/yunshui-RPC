@@ -1,6 +1,6 @@
-package org.example.common.service;
+package org.yunshui.example.common.service;
 
-import org.example.common.model.User;
+import org.yunshui.example.common.model.User;
 
 /**
  * 用户服务

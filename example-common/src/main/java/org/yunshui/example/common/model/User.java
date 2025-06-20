@@ -1,4 +1,4 @@
-package org.example.common.model;
+package org.yunshui.example.common.model;
 
 import java.io.Serializable;
 
