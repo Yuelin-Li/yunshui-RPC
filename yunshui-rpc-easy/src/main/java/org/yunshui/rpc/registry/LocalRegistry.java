@@ -9,7 +9,7 @@ import java.util.concurrent.ConcurrentHashMap;
 public class LocalRegistry {
 
     /**
-     * 注册信息存储
+     * 注册信息存储(key为服务名称，value为服务类)
      */
     private static final Map<String, Class<?>> map = new ConcurrentHashMap<>();
 
