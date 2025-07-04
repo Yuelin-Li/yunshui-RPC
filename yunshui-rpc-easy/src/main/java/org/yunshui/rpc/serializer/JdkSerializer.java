@@ -4,6 +4,7 @@ import java.io.*;
 
 /**
  * JDK 序列化器
+ * 用了 Java 的 ObjectOutputStream 和 ObjectInputStream 来完成对象的序列化和反序列化
  */
 public class JdkSerializer implements Serializer {
 
